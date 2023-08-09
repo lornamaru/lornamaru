@@ -4,6 +4,20 @@
   <img src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"
  </div>
 
+I'm open to:
+*any collaboration work,
+*monitoring and evaluation and
+*research scientist
+
+
+##skills
+
+###languages
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
+
+
 <!--
 **lornamaru/lornamaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
