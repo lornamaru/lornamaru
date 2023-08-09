@@ -5,7 +5,7 @@
 </div>
 
 I'm open to:
-*Any collaboration work,
+Any collaboration work,
 
 
 ## skills
