@@ -1,7 +1,7 @@
 ### Hi there I'm Lorna Maru 👋
 
 <div align="center">
-  <img src="https://www.youtube.com/watch?v=yypaV7IFcQM" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/usnationalarchives-1n8aGJBEXuW0M7ELrB" width="600" height="300"/>
 </div>
 
 <!--
