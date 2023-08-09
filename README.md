@@ -8,13 +8,13 @@ I'm open to:
 *Any collaboration work,
 
 
-##skills
-*Monitoring and evaluation
-*Data Analysis
-*Research
+## skills
+* Monitoring and evaluation
+* Data Analysis
+* Research
 
 
-###languages
+### languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
