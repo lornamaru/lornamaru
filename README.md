@@ -1,7 +1,7 @@
 ### Hi there I'm Lorna Maru 👋
 
 <div align="center">
-  <<iframe src="https://giphy.com/embed/n07Zvo9UtALcaw1kA9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Veeam-developing-programing-veeam-n07Zvo9UtALcaw1kA9">via GIPHY</a></p> 
+  <<iframe src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"
  </div>
 
 <!--
