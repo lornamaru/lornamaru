@@ -5,12 +5,14 @@
  </div>
 
 I'm open to:
-*any collaboration work,
-*research scientist
+*Any collaboration work,
 
 
 ##skills
-*monitoring and evaluation
+*Monitoring and evaluation
+*Data Analysis
+*Research
+
 
 ###languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
