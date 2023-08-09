@@ -1,11 +1,11 @@
 ### Hi there I'm Lorna Maru 👋
 
 <div align="center">
-  <img src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"
+  <img src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"/>
 </div>
 
 I'm open to:
-Any collaboration work,
+Any collaboration work
 
 
 ## skills
