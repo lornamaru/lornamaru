@@ -1,7 +1,7 @@
 ### Hi there I'm Lorna Maru 👋
 
 <div align="center">
-  <<iframe src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"
+  <img src = "https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="600" height= "600"
  </div>
 
 <!--
