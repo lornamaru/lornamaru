@@ -1,7 +1,7 @@
 ### Hi there I'm Lorna Maru 👋
 
 <div align="center">
-  <img src="https://giphy.com/gifs/girlsinstem-code-gis-girls-in-stem-jBN1hXQCieS26Ba6iB" width="600" height="300"/>
+  <img src= "https://giphy.com/gifs/girlsinstem-code-gis-girls-in-stem-jBN1hXQCieS26Ba6iB" width="600" height="300"/>
  </div>
 
 <!--
