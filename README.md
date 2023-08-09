@@ -1,6 +1,6 @@
 ### Hi there I'm Lorna Maru 👋
 
-<div align="centre">
+<div align="center">
   <img src="https://www.youtube.com/watch?v=yypaV7IFcQM" width="600" height="300"/>
 </div>
 
