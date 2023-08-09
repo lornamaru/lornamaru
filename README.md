@@ -6,11 +6,11 @@
 
 I'm open to:
 *any collaboration work,
-*monitoring and evaluation and
 *research scientist
 
 
 ##skills
+*monitoring and evaluation
 
 ###languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
